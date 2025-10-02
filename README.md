@@ -4,7 +4,7 @@
 | au-mel     | Melbourne            | Australia       | au-mel.azirevpn.net       | MR8prbpIXU8KpklTxc2juQMW1N9I8QiPn6D7en34Glg= | 79.127.130.98                            |
 | au-syd     | Sydney               | Australia       | au-syd.azirevpn.net       | Jnu3XyoVB8n0PaigX52fCK30edkspjVkJ/HLJgd33lQ= | 77.90.35.88                              |
 | at-vie     | Vienna               | Austria         | at-vie.azirevpn.net       | injPJkQmhbKJgf2oQAoBHreAZ9syp7g8ceGEob/vKRI= | 45.91.94.86                              |
-| be-bru     | Brussels             | Belgium         | be-bru.azirevpn.net       | 3Qd5oS67n2RYKQjsK6cIGmsqx2BcH5NMsFNQlvPqjBM= | ;; communications error to 127.0.0.53#53: timed out 79.127.224.85 |
+| be-bru     | Brussels             | Belgium         | be-bru.azirevpn.net       | 3Qd5oS67n2RYKQjsK6cIGmsqx2BcH5NMsFNQlvPqjBM= | 79.127.224.85                            |
 | ca-cal     | Calgary              | Canada          | ca-cal.azirevpn.net       | 91uevrsKeJaxcM6QJmQK2qHBcI/o3T3vwVa9uM5qsQY= | 38.240.225.120                           |
 | ca-mtr     | Montréal            | Canada          | ca-mtr.azirevpn.net       | wJHosLYPDdrjUUdwPksdghn5cF664sQq7oaeUxJ24Xk= | 167.160.95.118                           |
 | ca-tor     | Toronto              | Canada          | ca-tor.azirevpn.net       | p2NGYP6/RzLq8zfWjRaRFIIFywLGcK8lRWkdrXRE+Ho= | 208.68.93.231                            |
