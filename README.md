@@ -20,7 +20,7 @@
 | de-dus     | Düsseldorf          | Germany         | de-dus.azirevpn.net       | EyBJUawu49A1d9e03Fa0xSMzw2NBEF+8y0DuFu9SF1M= | 176.113.68.6                             |
 | de-fra     | Frankfurt am Main    | Germany         | de-fra.azirevpn.net       | 6KGlJBayBxwavWaCsQgfrGZBEdNf0/0vNvHoWMyXXwA= | 37.46.199.152                            |
 | gr-ath     | Athens               | Greece          | gr-ath.azirevpn.net       | dyzLMM5cxozi4XhKSkT9s+a7DUhO8akNQlFkU7XFWyo= | 79.127.218.5                             |
-| hk-hkg     | Hong Kong            | Hong Kong       | hk-hkg.azirevpn.net       | xNBQ9U6Xk1YsWw0QirhaaXX15Df8OKLKRv605sk9YGw= | ;; communications error to 127.0.0.53#53: timed out 103.101.0.196 |
+| hk-hkg     | Hong Kong            | Hong Kong       | hk-hkg.azirevpn.net       | xNBQ9U6Xk1YsWw0QirhaaXX15Df8OKLKRv605sk9YGw= | 103.101.0.196                            |
 | ie-dub     | Dublin               | Ireland         | ie-dub.azirevpn.net       | 6wc98mKi8HI1s47OsLlEBhnlWd13989C6srtOc+VKGc= | 79.127.161.197                           |
 | il-tlv     | Tel Aviv             | Israel          | il-tlv.azirevpn.net       | L9Dlkilhp1LS5gSapoaCteUTmzRnH3v4So2W37Cv0Q4= | 169.150.235.21                           |
 | it-mil     | Milan                | Italy           | it-mil.azirevpn.net       | jdf4cwBO6aJYyWoqM5WbF1oyOZbieHow5K3hjHp03Tg= | 45.15.18.56                              |
@@ -44,7 +44,7 @@
 | th-bkk     | Bangkok              | Thailand        | th-bkk.azirevpn.net       | /zzpoWKbjgY6BAlQ99z5501SnKFJOR/5QQRJG7YHvhM= | 103.249.212.8                            |
 | ua-iev     | Kyiv                 | Ukraine         | ua-iev.azirevpn.net       | PnO60hl6Ah8/vS4GV8MIfTmP96LBsfHxDJwavSYqsQo= | 91.232.30.67                             |
 | gb-lon     | London               | United Kingdom  | gb-lon.azirevpn.net       | vNFZiDinSYNotCVZC3lzHDxSwFQ1XsmdF/tKt1+aK0w= | 185.41.242.227                           |
-| gb-mnc     | Manchester           | United Kingdom  | gb-mnc.azirevpn.net       | XxGZ9Se/TloUgHNWavxQj3XmbS4kTqDbuPMp8OKxJXs= | 83.97.16.35 83.97.16.38                  |
+| gb-mnc     | Manchester           | United Kingdom  | gb-mnc.azirevpn.net       | XxGZ9Se/TloUgHNWavxQj3XmbS4kTqDbuPMp8OKxJXs= | 83.97.16.38 83.97.16.35                  |
 | us-qas     | Ashburn              | United States   | us-qas.azirevpn.net       | wfNBDpaltyJgHPduK1a9jn2G/YIiCljRExVHlYDUDVQ= | 121.127.42.69                            |
 | us-atl     | Atlanta              | United States   | us-atl.azirevpn.net       | 1qe9RYIuQJFBX0i//55+UkiHRRTEcSm+SsBuWJUF5gY= | 79.127.199.53                            |
 | us-bos     | Boston               | United States   | us-bos.azirevpn.net       | WYlEnWfqR6ikJZR36aIcpI/R2mzRTIeVZV15J79zXnA= | 79.127.248.2                             |
