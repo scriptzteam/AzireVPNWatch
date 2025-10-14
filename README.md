@@ -32,7 +32,7 @@
 | nz-akl     | Auckland             | New Zealand     | nz-akl.azirevpn.net       | SDWxGJXSsY7zsI0KkhknL/F/afMviWjwM4+BkwDFkkI= | 103.75.11.198                            |
 | no-osl     | Oslo                 | Norway          | no-osl.azirevpn.net       | tjLpPmmJEpI4/urRi6cMCewLBcJWjabxmOh8+UH5nRY= | 45.148.18.72                             |
 | pl-waw     | Warsaw               | Poland          | pl-waw.azirevpn.net       | 90cD2Oi9csf3RAXuASfORsyKR1IGv0ZlFUmkegTteEc= | 84.17.54.197                             |
-| pt-lis     | Lisbon               | Portugal        | pt-lis.azirevpn.net       | UXbhNFz463gRyh+UlFfo/GmfareJVEus/y+K87uU+zc= | 79.127.168.21                            |
+| pt-lis     | Lisbon               | Portugal        | pt-lis.azirevpn.net       | UXbhNFz463gRyh+UlFfo/GmfareJVEus/y+K87uU+zc= | ;; communications error to 127.0.0.53#53: timed out 79.127.168.21 |
 | ro-buh     | Bucharest            | Romania         | ro-buh.azirevpn.net       | PGhtux4Oq/zZOtRylPY6DyMYuoqTkLB5mqpOH6qBdUw= | 91.199.50.184                            |
 | sg-sin     | Singapore            | Singapore       | sg-sin.azirevpn.net       | /bHUZH87m0qtxF5etabQdxQ+aIFXMo91xFcPLts4x3E= | 185.152.34.83                            |
 | es-mad     | Madrid               | Spain           | es-mad.azirevpn.net       | KWHTarn7MvRayoRm5Bv1RkBi7fh6Oj7qGGaia1sl4Qw= | 45.15.18.24                              |
