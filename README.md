@@ -44,10 +44,10 @@
 | th-bkk     | Bangkok              | Thailand        | th-bkk.azirevpn.net       | /zzpoWKbjgY6BAlQ99z5501SnKFJOR/5QQRJG7YHvhM= | 103.249.212.8                            |
 | ua-iev     | Kyiv                 | Ukraine         | ua-iev.azirevpn.net       | PnO60hl6Ah8/vS4GV8MIfTmP96LBsfHxDJwavSYqsQo= | 91.232.30.67                             |
 | gb-lon     | London               | United Kingdom  | gb-lon.azirevpn.net       | vNFZiDinSYNotCVZC3lzHDxSwFQ1XsmdF/tKt1+aK0w= | 185.41.242.227                           |
-| gb-mnc     | Manchester           | United Kingdom  | gb-mnc.azirevpn.net       | XxGZ9Se/TloUgHNWavxQj3XmbS4kTqDbuPMp8OKxJXs= | 83.97.16.35 83.97.16.38                  |
+| gb-mnc     | Manchester           | United Kingdom  | gb-mnc.azirevpn.net       | XxGZ9Se/TloUgHNWavxQj3XmbS4kTqDbuPMp8OKxJXs= | 83.97.16.38 83.97.16.35                  |
 | us-qas     | Ashburn              | United States   | us-qas.azirevpn.net       | wfNBDpaltyJgHPduK1a9jn2G/YIiCljRExVHlYDUDVQ= | 121.127.42.69                            |
 | us-atl     | Atlanta              | United States   | us-atl.azirevpn.net       | 1qe9RYIuQJFBX0i//55+UkiHRRTEcSm+SsBuWJUF5gY= | 79.127.199.53                            |
-| us-bos     | Boston               | United States   | us-bos.azirevpn.net       | WYlEnWfqR6ikJZR36aIcpI/R2mzRTIeVZV15J79zXnA= | 79.127.248.2                             |
+| us-bos     | Boston               | United States   | us-bos.azirevpn.net       | WYlEnWfqR6ikJZR36aIcpI/R2mzRTIeVZV15J79zXnA= | ;; communications error to 127.0.0.53#53: timed out 79.127.248.2 |
 | us-chi     | Chicago              | United States   | us-chi.azirevpn.net       | vCuwEP5vK7sjcMiyRVFDs7QFavAvvLi9jpV7xUSsSgc= | 121.127.34.204                           |
 | us-dal     | Dallas               | United States   | us-dal.azirevpn.net       | dNG/OKKUpyz0Z5vMFOmxzqjfb47PTpllqmahgXAGGUU= | 198.44.137.54                            |
 | us-den     | Denver               | United States   | us-den.azirevpn.net       | BfwzNCi5VwZB/zS8DlhEewOfmnd9NZ7VoP47fB3rQ1A= | 95.173.220.89                            |
