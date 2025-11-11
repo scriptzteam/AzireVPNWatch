@@ -19,7 +19,7 @@
 | de-ber     | Berlin               | Germany         | de-ber.azirevpn.net       | +KvNvDDtjCSFUegJAbnYntBmJb936GjzMu3zGddCfSE= | 45.15.18.88                              |
 | de-dus     | Düsseldorf          | Germany         | de-dus.azirevpn.net       | EyBJUawu49A1d9e03Fa0xSMzw2NBEF+8y0DuFu9SF1M= | 176.113.68.6                             |
 | de-fra     | Frankfurt am Main    | Germany         | de-fra.azirevpn.net       | 6KGlJBayBxwavWaCsQgfrGZBEdNf0/0vNvHoWMyXXwA= | 37.46.199.152                            |
-| gr-ath     | Athens               | Greece          | gr-ath.azirevpn.net       | dyzLMM5cxozi4XhKSkT9s+a7DUhO8akNQlFkU7XFWyo= | ;; communications error to 127.0.0.53#53: timed out 79.127.218.5 |
+| gr-ath     | Athens               | Greece          | gr-ath.azirevpn.net       | dyzLMM5cxozi4XhKSkT9s+a7DUhO8akNQlFkU7XFWyo= | 79.127.218.5                             |
 | hk-hkg     | Hong Kong            | Hong Kong       | hk-hkg.azirevpn.net       | xNBQ9U6Xk1YsWw0QirhaaXX15Df8OKLKRv605sk9YGw= | 103.101.0.196                            |
 | ie-dub     | Dublin               | Ireland         | ie-dub.azirevpn.net       | 6wc98mKi8HI1s47OsLlEBhnlWd13989C6srtOc+VKGc= | 79.127.161.197                           |
 | il-tlv     | Tel Aviv             | Israel          | il-tlv.azirevpn.net       | L9Dlkilhp1LS5gSapoaCteUTmzRnH3v4So2W37Cv0Q4= | 169.150.235.21                           |
