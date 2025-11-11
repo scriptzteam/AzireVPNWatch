@@ -19,7 +19,7 @@
 | de-ber     | Berlin               | Germany         | de-ber.azirevpn.net       | +KvNvDDtjCSFUegJAbnYntBmJb936GjzMu3zGddCfSE= | 45.15.18.88                              |
 | de-dus     | Düsseldorf          | Germany         | de-dus.azirevpn.net       | EyBJUawu49A1d9e03Fa0xSMzw2NBEF+8y0DuFu9SF1M= | 176.113.68.6                             |
 | de-fra     | Frankfurt am Main    | Germany         | de-fra.azirevpn.net       | 6KGlJBayBxwavWaCsQgfrGZBEdNf0/0vNvHoWMyXXwA= | 37.46.199.152                            |
-| gr-ath     | Athens               | Greece          | gr-ath.azirevpn.net       | dyzLMM5cxozi4XhKSkT9s+a7DUhO8akNQlFkU7XFWyo= | 79.127.218.5                             |
+| gr-ath     | Athens               | Greece          | gr-ath.azirevpn.net       | dyzLMM5cxozi4XhKSkT9s+a7DUhO8akNQlFkU7XFWyo= | ;; communications error to 127.0.0.53#53: timed out 79.127.218.5 |
 | hk-hkg     | Hong Kong            | Hong Kong       | hk-hkg.azirevpn.net       | xNBQ9U6Xk1YsWw0QirhaaXX15Df8OKLKRv605sk9YGw= | 103.101.0.196                            |
 | ie-dub     | Dublin               | Ireland         | ie-dub.azirevpn.net       | 6wc98mKi8HI1s47OsLlEBhnlWd13989C6srtOc+VKGc= | 79.127.161.197                           |
 | il-tlv     | Tel Aviv             | Israel          | il-tlv.azirevpn.net       | L9Dlkilhp1LS5gSapoaCteUTmzRnH3v4So2W37Cv0Q4= | 169.150.235.21                           |
@@ -44,7 +44,7 @@
 | th-bkk     | Bangkok              | Thailand        | th-bkk.azirevpn.net       | /zzpoWKbjgY6BAlQ99z5501SnKFJOR/5QQRJG7YHvhM= | 103.249.212.8                            |
 | ua-iev     | Kyiv                 | Ukraine         | ua-iev.azirevpn.net       | PnO60hl6Ah8/vS4GV8MIfTmP96LBsfHxDJwavSYqsQo= | 91.232.30.67                             |
 | gb-lon     | London               | United Kingdom  | gb-lon.azirevpn.net       | vNFZiDinSYNotCVZC3lzHDxSwFQ1XsmdF/tKt1+aK0w= | 185.41.242.227                           |
-| gb-mnc     | Manchester           | United Kingdom  | gb-mnc.azirevpn.net       | XxGZ9Se/TloUgHNWavxQj3XmbS4kTqDbuPMp8OKxJXs= | 83.97.16.38 83.97.16.35                  |
+| gb-mnc     | Manchester           | United Kingdom  | gb-mnc.azirevpn.net       | XxGZ9Se/TloUgHNWavxQj3XmbS4kTqDbuPMp8OKxJXs= | 83.97.16.35 83.97.16.38                  |
 | us-qas     | Ashburn              | United States   | us-qas.azirevpn.net       | wfNBDpaltyJgHPduK1a9jn2G/YIiCljRExVHlYDUDVQ= | 121.127.42.69                            |
 | us-atl     | Atlanta              | United States   | us-atl.azirevpn.net       | 1qe9RYIuQJFBX0i//55+UkiHRRTEcSm+SsBuWJUF5gY= | 79.127.199.53                            |
 | us-bos     | Boston               | United States   | us-bos.azirevpn.net       | WYlEnWfqR6ikJZR36aIcpI/R2mzRTIeVZV15J79zXnA= | 79.127.248.2                             |
@@ -55,7 +55,7 @@
 | us-lax     | Los Angeles          | United States   | us-lax.azirevpn.net       | vF5RA6zcvik3JsdxcSROBnJLPuU8JiI+t2zxd4txQiE= | 69.166.236.89                            |
 | us-mia     | Miami                | United States   | us-mia.azirevpn.net       | 7U3kXuo8v1OgwRTpDArh4eOB3bl2G165eQq8uvFr118= | 45.92.19.139                             |
 | us-nyc     | New York             | United States   | us-nyc.azirevpn.net       | HkIMh8QUhIbHte7X0pLWkfn7a1psF5+kngq23ZpPDQU= | 185.126.82.201                           |
-| us-phx     | Phoenix              | United States   | us-phx.azirevpn.net       | NOmOGusRp+ZRrSEKHbCrUeCqFjZ/+rUqVvgxTpEJfjo= | ;; communications error to 127.0.0.53#53: timed out 198.44.133.150 |
+| us-phx     | Phoenix              | United States   | us-phx.azirevpn.net       | NOmOGusRp+ZRrSEKHbCrUeCqFjZ/+rUqVvgxTpEJfjo= | 198.44.133.150                           |
 | us-rag     | Raleigh              | United States   | us-rag.azirevpn.net       | NExfVpLVxI3nqgNNJBlA70aPFK7ehGDZi23J7eXvzk8= | 198.44.130.102                           |
 | us-slc     | Salt Lake City       | United States   | us-slc.azirevpn.net       | PEk2X2d+/6GsHL1vLtxUu1gmn7SuDdgH2Mj2nyL1gkA= | 198.44.139.22                            |
 | us-sfo     | San Francisco        | United States   | us-sfo.azirevpn.net       | 2/hyw6fg7PJlczUDvQxx7EvBwkT2tqO19mncQjQ+M1U= | 192.197.201.114                          |
