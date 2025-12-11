@@ -55,7 +55,7 @@
 | us-den     | Denver               | United States   | us-den.azirevpn.net       | BfwzNCi5VwZB/zS8DlhEewOfmnd9NZ7VoP47fB3rQ1A= | 95.173.220.89                            |
 | us-hou     | Houston              | United States   | us-hou.azirevpn.net       | OVZl4vfIFyN9Epzzg5x3Q0PlEM5gO8JvDIhagrULb3E= | 37.19.216.146                            |
 | us-lax     | Los Angeles          | United States   | us-lax.azirevpn.net       | vF5RA6zcvik3JsdxcSROBnJLPuU8JiI+t2zxd4txQiE= | 69.166.236.89                            |
-| us-mia     | Miami                | United States   | us-mia.azirevpn.net       | 7U3kXuo8v1OgwRTpDArh4eOB3bl2G165eQq8uvFr118= | 45.92.19.139                             |
+| us-mia     | Miami                | United States   | us-mia.azirevpn.net       | 7U3kXuo8v1OgwRTpDArh4eOB3bl2G165eQq8uvFr118= | ;; communications error to 127.0.0.53#53: timed out 45.92.19.139 |
 | us-nyc     | New York             | United States   | us-nyc.azirevpn.net       | HkIMh8QUhIbHte7X0pLWkfn7a1psF5+kngq23ZpPDQU= | 185.126.82.201                           |
 | us-phx     | Phoenix              | United States   | us-phx.azirevpn.net       | NOmOGusRp+ZRrSEKHbCrUeCqFjZ/+rUqVvgxTpEJfjo= | 198.44.133.150                           |
 | us-rag     | Raleigh              | United States   | us-rag.azirevpn.net       | NExfVpLVxI3nqgNNJBlA70aPFK7ehGDZi23J7eXvzk8= | 198.44.130.102                           |
