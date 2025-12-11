@@ -46,7 +46,7 @@
 | th-bkk     | Bangkok              | Thailand        | th-bkk.azirevpn.net       | /zzpoWKbjgY6BAlQ99z5501SnKFJOR/5QQRJG7YHvhM= | 103.249.212.8                            |
 | ua-iev     | Kyiv                 | Ukraine         | ua-iev.azirevpn.net       | PnO60hl6Ah8/vS4GV8MIfTmP96LBsfHxDJwavSYqsQo= | 91.232.30.67                             |
 | gb-lon     | London               | United Kingdom  | gb-lon.azirevpn.net       | vNFZiDinSYNotCVZC3lzHDxSwFQ1XsmdF/tKt1+aK0w= | 185.41.242.227                           |
-| gb-mnc     | Manchester           | United Kingdom  | gb-mnc.azirevpn.net       | XxGZ9Se/TloUgHNWavxQj3XmbS4kTqDbuPMp8OKxJXs= | 83.97.16.38 83.97.16.35                  |
+| gb-mnc     | Manchester           | United Kingdom  | gb-mnc.azirevpn.net       | XxGZ9Se/TloUgHNWavxQj3XmbS4kTqDbuPMp8OKxJXs= | 83.97.16.35 83.97.16.38                  |
 | us-qas     | Ashburn              | United States   | us-qas.azirevpn.net       | wfNBDpaltyJgHPduK1a9jn2G/YIiCljRExVHlYDUDVQ= | 121.127.42.69                            |
 | us-atl     | Atlanta              | United States   | us-atl.azirevpn.net       | 1qe9RYIuQJFBX0i//55+UkiHRRTEcSm+SsBuWJUF5gY= | 79.127.199.53                            |
 | us-bos     | Boston               | United States   | us-bos.azirevpn.net       | WYlEnWfqR6ikJZR36aIcpI/R2mzRTIeVZV15J79zXnA= | 79.127.248.2                             |
@@ -55,7 +55,7 @@
 | us-den     | Denver               | United States   | us-den.azirevpn.net       | BfwzNCi5VwZB/zS8DlhEewOfmnd9NZ7VoP47fB3rQ1A= | 95.173.220.89                            |
 | us-hou     | Houston              | United States   | us-hou.azirevpn.net       | OVZl4vfIFyN9Epzzg5x3Q0PlEM5gO8JvDIhagrULb3E= | 37.19.216.146                            |
 | us-lax     | Los Angeles          | United States   | us-lax.azirevpn.net       | vF5RA6zcvik3JsdxcSROBnJLPuU8JiI+t2zxd4txQiE= | 69.166.236.89                            |
-| us-mia     | Miami                | United States   | us-mia.azirevpn.net       | 7U3kXuo8v1OgwRTpDArh4eOB3bl2G165eQq8uvFr118= | ;; communications error to 127.0.0.53#53: timed out 45.92.19.139 |
+| us-mia     | Miami                | United States   | us-mia.azirevpn.net       | 7U3kXuo8v1OgwRTpDArh4eOB3bl2G165eQq8uvFr118= | 45.92.19.139                             |
 | us-nyc     | New York             | United States   | us-nyc.azirevpn.net       | HkIMh8QUhIbHte7X0pLWkfn7a1psF5+kngq23ZpPDQU= | 185.126.82.201                           |
 | us-phx     | Phoenix              | United States   | us-phx.azirevpn.net       | NOmOGusRp+ZRrSEKHbCrUeCqFjZ/+rUqVvgxTpEJfjo= | 198.44.133.150                           |
 | us-rag     | Raleigh              | United States   | us-rag.azirevpn.net       | NExfVpLVxI3nqgNNJBlA70aPFK7ehGDZi23J7eXvzk8= | 198.44.130.102                           |
