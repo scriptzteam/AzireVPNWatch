@@ -13,7 +13,7 @@
 | co-bog     | Bogota               | Colombia        | co-bog.azirevpn.net       | nk9yPvG9c8xFxmHggbOeVmt20RlDQ89ulAqhylgJdFA= | 79.127.214.130                           |
 | cz-prg     | Prague               | Czech Republic  | cz-prg.azirevpn.net       | qALNAZS05jxlg8Co4nKzBabM01qci9+7Ryfworbip1g= | 109.61.87.101                            |
 | dk-cph     | Copenhagen           | Denmark         | dk-cph.azirevpn.net       | bp0LA6FyzOq7VPUQyaRigPq2ZZRrjgoIJ7/fsxs1L3I= | 45.148.18.136                            |
-| ee-tll     | Tallinn              | Estonia         | ee-tll.azirevpn.net       | hNa5hb5diL5wut9QxYtcvw3fzkykbtTqZ145bF9LulM= | ;; communications error to 127.0.0.53#53: timed out 176.113.69.6 |
+| ee-tll     | Tallinn              | Estonia         | ee-tll.azirevpn.net       | hNa5hb5diL5wut9QxYtcvw3fzkykbtTqZ145bF9LulM= | 176.113.69.6                             |
 | fi-hel     | Helsinki             | Finland         | fi-hel.azirevpn.net       | 7HmWjplnRB+Ho/3xJWHVHACpDx3KjYztpqoOhEpilEo= | 193.138.7.104                            |
 | fr-par     | Paris                | France          | fr-par.azirevpn.net       | s+vJxWBIZqSN6980ha0Nfk2EoMJa2j3FQ1NrSQERlE8= | 62.115.229.56                            |
 | de-ber     | Berlin               | Germany         | de-ber.azirevpn.net       | +KvNvDDtjCSFUegJAbnYntBmJb936GjzMu3zGddCfSE= | 45.15.18.88                              |
