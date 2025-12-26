@@ -1,6 +1,6 @@
 | NAME       | CITY                 | COUNTRY         | POOL                      | PUBKEY                                     | IP(s)                                   |
 |------------|----------------------|-----------------|---------------------------|--------------------------------------------|-----------------------------------------|
-| ar-bue     | Buenos Aires         | Argentina       | ar-bue.azirevpn.net       | HjziGvLqDPeFpsmU6aOT6DIEUleQ2bkppPmWeAy8fT0= | 200.110.149.179                          |
+| ar-bue     | Buenos Aires         | Argentina       | ar-bue.azirevpn.net       | HjziGvLqDPeFpsmU6aOT6DIEUleQ2bkppPmWeAy8fT0= | ;; communications error to 127.0.0.53#53: timed out 200.110.149.179 |
 | au-mel     | Melbourne            | Australia       | au-mel.azirevpn.net       | MR8prbpIXU8KpklTxc2juQMW1N9I8QiPn6D7en34Glg= | 79.127.130.98                            |
 | au-syd     | Sydney               | Australia       | au-syd.azirevpn.net       | Jnu3XyoVB8n0PaigX52fCK30edkspjVkJ/HLJgd33lQ= | 77.90.35.88                              |
 | at-vie     | Vienna               | Austria         | at-vie.azirevpn.net       | injPJkQmhbKJgf2oQAoBHreAZ9syp7g8ceGEob/vKRI= | 45.91.94.86                              |
