@@ -51,7 +51,7 @@
 | us-atl     | Atlanta              | United States   | us-atl.azirevpn.net       | 1qe9RYIuQJFBX0i//55+UkiHRRTEcSm+SsBuWJUF5gY= | 79.127.199.53                            |
 | us-bos     | Boston               | United States   | us-bos.azirevpn.net       | WYlEnWfqR6ikJZR36aIcpI/R2mzRTIeVZV15J79zXnA= | 79.127.248.2                             |
 | us-chi     | Chicago              | United States   | us-chi.azirevpn.net       | vCuwEP5vK7sjcMiyRVFDs7QFavAvvLi9jpV7xUSsSgc= | 121.127.34.204                           |
-| us-dal     | Dallas               | United States   | us-dal.azirevpn.net       | dNG/OKKUpyz0Z5vMFOmxzqjfb47PTpllqmahgXAGGUU= | 198.44.137.54                            |
+| us-dal     | Dallas               | United States   | us-dal.azirevpn.net       | dNG/OKKUpyz0Z5vMFOmxzqjfb47PTpllqmahgXAGGUU= | ;; communications error to 127.0.0.53#53: timed out 198.44.137.54 |
 | us-den     | Denver               | United States   | us-den.azirevpn.net       | BfwzNCi5VwZB/zS8DlhEewOfmnd9NZ7VoP47fB3rQ1A= | 95.173.220.89                            |
 | us-hou     | Houston              | United States   | us-hou.azirevpn.net       | OVZl4vfIFyN9Epzzg5x3Q0PlEM5gO8JvDIhagrULb3E= | 37.19.216.146                            |
 | us-lax     | Los Angeles          | United States   | us-lax.azirevpn.net       | vF5RA6zcvik3JsdxcSROBnJLPuU8JiI+t2zxd4txQiE= | 69.166.236.89                            |
