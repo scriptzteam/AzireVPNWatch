@@ -44,7 +44,7 @@
 | se-sto     | Stockholm            | Sweden          | se-sto.azirevpn.net       | VYRJwI6n2Rpvh/gmYnUoyMJQDrUSdxls0JX9/6JlOEw= | 46.227.68.35                             |
 | ch-zrh     | Zürich              | Switzerland     | ch-zrh.azirevpn.net       | 9wmuJNFKOH1wvPFW6CS/f3lwY7YnZ4ol37rkjIvuxX8= | 45.15.18.3                               |
 | th-bkk     | Bangkok              | Thailand        | th-bkk.azirevpn.net       | /zzpoWKbjgY6BAlQ99z5501SnKFJOR/5QQRJG7YHvhM= | 103.249.212.8                            |
-| ua-iev     | Kyiv                 | Ukraine         | ua-iev.azirevpn.net       | PnO60hl6Ah8/vS4GV8MIfTmP96LBsfHxDJwavSYqsQo= | 91.232.30.67                             |
+| ua-iev     | Kyiv                 | Ukraine         | ua-iev.azirevpn.net       | PnO60hl6Ah8/vS4GV8MIfTmP96LBsfHxDJwavSYqsQo= | ;; communications error to 127.0.0.53#53: timed out 91.232.30.67 |
 | gb-lon     | London               | United Kingdom  | gb-lon.azirevpn.net       | vNFZiDinSYNotCVZC3lzHDxSwFQ1XsmdF/tKt1+aK0w= | 185.41.242.227                           |
 | gb-mnc     | Manchester           | United Kingdom  | gb-mnc.azirevpn.net       | XxGZ9Se/TloUgHNWavxQj3XmbS4kTqDbuPMp8OKxJXs= | 83.97.16.35 83.97.16.38                  |
 | us-qas     | Ashburn              | United States   | us-qas.azirevpn.net       | wfNBDpaltyJgHPduK1a9jn2G/YIiCljRExVHlYDUDVQ= | 121.127.42.69                            |
