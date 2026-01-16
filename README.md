@@ -27,7 +27,7 @@
 | it-mil     | Milan                | Italy           | it-mil.azirevpn.net       | jdf4cwBO6aJYyWoqM5WbF1oyOZbieHow5K3hjHp03Tg= | 45.15.18.56                              |
 | it-pmo     | Palermo              | Italy           | it-pmo.azirevpn.net       | m/msi90h0fuOdTuyj2SKshOzd0OHtetP2xStdx20WBo= | 79.127.246.101                           |
 | jp-osa     | Osaka                | Japan           | jp-osa.azirevpn.net       | 14E5pfWIzLPlxlIwl2c/mMQaPWtToUOWc8qnrNPHzQM= | 194.114.136.198                          |
-| jp-tyo     | Tokyo                | Japan           | jp-tyo.azirevpn.net       | Hg26jJfKHr8hy8Y15weM7Ucro8C+HSaOovP0sHAmeV8= | ;; communications error to 127.0.0.53#53: timed out 31.57.218.72 |
+| jp-tyo     | Tokyo                | Japan           | jp-tyo.azirevpn.net       | Hg26jJfKHr8hy8Y15weM7Ucro8C+HSaOovP0sHAmeV8= | 31.57.218.72                             |
 | mx-qro     | Queretaro            | Mexico          | mx-qro.azirevpn.net       | JKo9YvEv1cREhUUBJ/zaw7qvMy88nzI4XD+QO+t7xEY= | 79.127.229.245                           |
 | nl-ams     | Amsterdam            | Netherlands     | nl-ams.azirevpn.net       | W+LE+uFRyMRdYFCf7Jw0OPERNd1bcIm0gTKf/traIUk= | 46.227.71.35                             |
 | nz-akl     | Auckland             | New Zealand     | nz-akl.azirevpn.net       | SDWxGJXSsY7zsI0KkhknL/F/afMviWjwM4+BkwDFkkI= | 103.75.11.198                            |
