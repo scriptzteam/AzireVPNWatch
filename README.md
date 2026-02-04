@@ -2,7 +2,7 @@
 |------------|----------------------|-----------------|---------------------------|--------------------------------------------|-----------------------------------------|
 | ar-bue     | Buenos Aires         | Argentina       | ar-bue.azirevpn.net       | HjziGvLqDPeFpsmU6aOT6DIEUleQ2bkppPmWeAy8fT0= | 200.110.149.179                          |
 | au-mel     | Melbourne            | Australia       | au-mel.azirevpn.net       | MR8prbpIXU8KpklTxc2juQMW1N9I8QiPn6D7en34Glg= | 79.127.130.98                            |
-| au-syd     | Sydney               | Australia       | au-syd.azirevpn.net       | Jnu3XyoVB8n0PaigX52fCK30edkspjVkJ/HLJgd33lQ= | 77.90.35.88                              |
+| au-syd     | Sydney               | Australia       | au-syd.azirevpn.net       | Jnu3XyoVB8n0PaigX52fCK30edkspjVkJ/HLJgd33lQ= | 85.155.188.248                           |
 | at-vie     | Vienna               | Austria         | at-vie.azirevpn.net       | injPJkQmhbKJgf2oQAoBHreAZ9syp7g8ceGEob/vKRI= | 45.91.94.86                              |
 | be-bru     | Brussels             | Belgium         | be-bru.azirevpn.net       | 3Qd5oS67n2RYKQjsK6cIGmsqx2BcH5NMsFNQlvPqjBM= | 79.127.224.85                            |
 | ca-cal     | Calgary              | Canada          | ca-cal.azirevpn.net       | 91uevrsKeJaxcM6QJmQK2qHBcI/o3T3vwVa9uM5qsQY= | 38.240.225.120                           |
