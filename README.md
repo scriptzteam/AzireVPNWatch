@@ -24,7 +24,7 @@
 | id-jkt     | Jakarta              | Indonesia       | id-jkt.azirevpn.net       | boSoG8SMuBzLLuA0C/y4Z5j8nxsKiMWG95+zhJjeCi4= | 103.120.66.67                            |
 | ie-dub     | Dublin               | Ireland         | ie-dub.azirevpn.net       | 6wc98mKi8HI1s47OsLlEBhnlWd13989C6srtOc+VKGc= | 79.127.161.197                           |
 | il-tlv     | Tel Aviv             | Israel          | il-tlv.azirevpn.net       | L9Dlkilhp1LS5gSapoaCteUTmzRnH3v4So2W37Cv0Q4= | 169.150.235.21                           |
-| it-mil     | Milan                | Italy           | it-mil.azirevpn.net       | jdf4cwBO6aJYyWoqM5WbF1oyOZbieHow5K3hjHp03Tg= | ;; communications error to 127.0.0.53#53: timed out 45.15.18.56 |
+| it-mil     | Milan                | Italy           | it-mil.azirevpn.net       | jdf4cwBO6aJYyWoqM5WbF1oyOZbieHow5K3hjHp03Tg= | 45.15.18.56                              |
 | it-pmo     | Palermo              | Italy           | it-pmo.azirevpn.net       | m/msi90h0fuOdTuyj2SKshOzd0OHtetP2xStdx20WBo= | 79.127.246.101                           |
 | jp-osa     | Osaka                | Japan           | jp-osa.azirevpn.net       | 14E5pfWIzLPlxlIwl2c/mMQaPWtToUOWc8qnrNPHzQM= | 194.114.136.198                          |
 | jp-tyo     | Tokyo                | Japan           | jp-tyo.azirevpn.net       | Hg26jJfKHr8hy8Y15weM7Ucro8C+HSaOovP0sHAmeV8= | 31.57.218.72                             |
