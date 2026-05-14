@@ -15,7 +15,7 @@
 | dk-cph     | Copenhagen           | Denmark         | dk-cph.azirevpn.net       | bp0LA6FyzOq7VPUQyaRigPq2ZZRrjgoIJ7/fsxs1L3I= | 45.148.18.136                            |
 | ee-tll     | Tallinn              | Estonia         | ee-tll.azirevpn.net       | hNa5hb5diL5wut9QxYtcvw3fzkykbtTqZ145bF9LulM= | 176.113.69.6                             |
 | fi-hel     | Helsinki             | Finland         | fi-hel.azirevpn.net       | 7HmWjplnRB+Ho/3xJWHVHACpDx3KjYztpqoOhEpilEo= | 193.138.7.104                            |
-| fr-par     | Paris                | France          | fr-par.azirevpn.net       | s+vJxWBIZqSN6980ha0Nfk2EoMJa2j3FQ1NrSQERlE8= | ;; communications error to 127.0.0.53#53: timed out 62.115.229.56 |
+| fr-par     | Paris                | France          | fr-par.azirevpn.net       | s+vJxWBIZqSN6980ha0Nfk2EoMJa2j3FQ1NrSQERlE8= | 62.115.229.56                            |
 | de-ber     | Berlin               | Germany         | de-ber.azirevpn.net       | +KvNvDDtjCSFUegJAbnYntBmJb936GjzMu3zGddCfSE= | 45.15.18.88                              |
 | de-dus     | Düsseldorf          | Germany         | de-dus.azirevpn.net       | EyBJUawu49A1d9e03Fa0xSMzw2NBEF+8y0DuFu9SF1M= | 176.113.68.6                             |
 | de-fra     | Frankfurt am Main    | Germany         | de-fra.azirevpn.net       | 6KGlJBayBxwavWaCsQgfrGZBEdNf0/0vNvHoWMyXXwA= | 37.46.199.152                            |
