@@ -7,6 +7,7 @@
 | be-bru     | Brussels             | Belgium         | be-bru.azirevpn.net       | 3Qd5oS67n2RYKQjsK6cIGmsqx2BcH5NMsFNQlvPqjBM= | 79.127.224.85                            |
 | ca-cal     | Calgary              | Canada          | ca-cal.azirevpn.net       | 91uevrsKeJaxcM6QJmQK2qHBcI/o3T3vwVa9uM5qsQY= | 38.240.225.120                           |
 | ca-mtr     | Montréal            | Canada          | ca-mtr.azirevpn.net       | wJHosLYPDdrjUUdwPksdghn5cF664sQq7oaeUxJ24Xk= | 167.160.95.118                           |
+| ca-tor     | Toronto              | Canada          | ca-tor.azirevpn.net       | p2NGYP6/RzLq8zfWjRaRFIIFywLGcK8lRWkdrXRE+Ho= | 208.68.93.231                            |
 | ca-van     | Vancouver            | Canada          | ca-van.azirevpn.net       | rif6whh0lHjgLGLUjq94hEPbHSOar5Oqxlo5WCV7wFM= | 79.127.254.133                           |
 | cl-scl     | Santiago             | Chile           | cl-scl.azirevpn.net       | FrbABNOtzufV0neCby9KUulcGO6ZemrHLJWfFT5kb0k= | 79.127.152.69                            |
 | co-bog     | Bogota               | Colombia        | co-bog.azirevpn.net       | nk9yPvG9c8xFxmHggbOeVmt20RlDQ89ulAqhylgJdFA= | 79.127.214.130                           |
