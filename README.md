@@ -15,7 +15,7 @@
 | dk-cph     | Copenhagen           | Denmark         | dk-cph.azirevpn.net       | bp0LA6FyzOq7VPUQyaRigPq2ZZRrjgoIJ7/fsxs1L3I= | 45.148.18.136                            |
 | ee-tll     | Tallinn              | Estonia         | ee-tll.azirevpn.net       | hNa5hb5diL5wut9QxYtcvw3fzkykbtTqZ145bF9LulM= | 176.113.69.6                             |
 | fi-hel     | Helsinki             | Finland         | fi-hel.azirevpn.net       | 7HmWjplnRB+Ho/3xJWHVHACpDx3KjYztpqoOhEpilEo= | 193.138.7.104                            |
-| fr-par     | Paris                | France          | fr-par.azirevpn.net       | s+vJxWBIZqSN6980ha0Nfk2EoMJa2j3FQ1NrSQERlE8= | 62.115.229.56                            |
+| fr-par     | Paris                | France          | fr-par.azirevpn.net       | s+vJxWBIZqSN6980ha0Nfk2EoMJa2j3FQ1NrSQERlE8= | 91.240.64.44                             |
 | de-ber     | Berlin               | Germany         | de-ber.azirevpn.net       | +KvNvDDtjCSFUegJAbnYntBmJb936GjzMu3zGddCfSE= | 45.15.18.88                              |
 | de-dus     | Düsseldorf          | Germany         | de-dus.azirevpn.net       | EyBJUawu49A1d9e03Fa0xSMzw2NBEF+8y0DuFu9SF1M= | 176.113.68.6                             |
 | de-fra     | Frankfurt am Main    | Germany         | de-fra.azirevpn.net       | 6KGlJBayBxwavWaCsQgfrGZBEdNf0/0vNvHoWMyXXwA= | 37.46.199.152                            |
@@ -37,7 +37,7 @@
 | ro-buh     | Bucharest            | Romania         | ro-buh.azirevpn.net       | PGhtux4Oq/zZOtRylPY6DyMYuoqTkLB5mqpOH6qBdUw= | 91.199.50.184                            |
 | sg-sin     | Singapore            | Singapore       | sg-sin.azirevpn.net       | /bHUZH87m0qtxF5etabQdxQ+aIFXMo91xFcPLts4x3E= | 185.152.34.83                            |
 | za-jnb     | Johannesburg         | South Africa    | za-jnb.azirevpn.net       | utqhm2KmU6xnDlkuRToEvZEz0YiRQ2RWm31/aD6ySEk= | 102.218.204.211                          |
-| es-mad     | Madrid               | Spain           | es-mad.azirevpn.net       | KWHTarn7MvRayoRm5Bv1RkBi7fh6Oj7qGGaia1sl4Qw= | 45.15.18.24                              |
+| es-mad     | Madrid               | Spain           | es-mad.azirevpn.net       | KWHTarn7MvRayoRm5Bv1RkBi7fh6Oj7qGGaia1sl4Qw= | 91.240.66.41                             |
 | es-mal     | Málaga              | Spain           | es-mal.azirevpn.net       | vfeEsNMxM8OM3lk/0eTAjBv3MrxbLPFoSXVtANnFeSc= | 45.159.14.248                            |
 | se-got     | Gothenburg           | Sweden          | se-got.azirevpn.net       | 6gCTdzDn9vxG+0ixPvHsHjLnC5bY0RmsT+niIzNPpxo= | 193.187.90.227                           |
 | se-mma     | Malmö               | Sweden          | se-mma.azirevpn.net       | kVQ/x2vyHPqs0vLJp+/d9oGEtSYcP9CtnDgkaZqRgjY= | 193.187.90.195                           |
