@@ -16,7 +16,7 @@
 | ee-tll     | Tallinn              | Estonia         | ee-tll.azirevpn.net       | hNa5hb5diL5wut9QxYtcvw3fzkykbtTqZ145bF9LulM= | 176.113.69.6                             |
 | fi-hel     | Helsinki             | Finland         | fi-hel.azirevpn.net       | 7HmWjplnRB+Ho/3xJWHVHACpDx3KjYztpqoOhEpilEo= | 193.138.7.104                            |
 | fr-par     | Paris                | France          | fr-par.azirevpn.net       | s+vJxWBIZqSN6980ha0Nfk2EoMJa2j3FQ1NrSQERlE8= | 91.240.64.44                             |
-| de-ber     | Berlin               | Germany         | de-ber.azirevpn.net       | +KvNvDDtjCSFUegJAbnYntBmJb936GjzMu3zGddCfSE= | 45.15.18.88                              |
+| de-ber     | Berlin               | Germany         | de-ber.azirevpn.net       | +KvNvDDtjCSFUegJAbnYntBmJb936GjzMu3zGddCfSE= | 91.240.65.44                             |
 | de-dus     | Düsseldorf          | Germany         | de-dus.azirevpn.net       | EyBJUawu49A1d9e03Fa0xSMzw2NBEF+8y0DuFu9SF1M= | 176.113.68.6                             |
 | de-fra     | Frankfurt am Main    | Germany         | de-fra.azirevpn.net       | 6KGlJBayBxwavWaCsQgfrGZBEdNf0/0vNvHoWMyXXwA= | 37.46.199.152                            |
 | gr-ath     | Athens               | Greece          | gr-ath.azirevpn.net       | dyzLMM5cxozi4XhKSkT9s+a7DUhO8akNQlFkU7XFWyo= | 79.127.218.5                             |
