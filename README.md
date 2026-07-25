@@ -12,7 +12,7 @@
 | cl-scl     | Santiago             | Chile           | cl-scl.azirevpn.net       | FrbABNOtzufV0neCby9KUulcGO6ZemrHLJWfFT5kb0k= | 79.127.152.69                            |
 | co-bog     | Bogota               | Colombia        | co-bog.azirevpn.net       | nk9yPvG9c8xFxmHggbOeVmt20RlDQ89ulAqhylgJdFA= | 79.127.214.130                           |
 | cz-prg     | Prague               | Czech Republic  | cz-prg.azirevpn.net       | qALNAZS05jxlg8Co4nKzBabM01qci9+7Ryfworbip1g= | 109.61.87.101                            |
-| dk-cph     | Copenhagen           | Denmark         | dk-cph.azirevpn.net       | bp0LA6FyzOq7VPUQyaRigPq2ZZRrjgoIJ7/fsxs1L3I= | 45.148.18.136                            |
+| dk-cph     | Copenhagen           | Denmark         | dk-cph.azirevpn.net       | bp0LA6FyzOq7VPUQyaRigPq2ZZRrjgoIJ7/fsxs1L3I= | 45.148.18.131                            |
 | ee-tll     | Tallinn              | Estonia         | ee-tll.azirevpn.net       | hNa5hb5diL5wut9QxYtcvw3fzkykbtTqZ145bF9LulM= | 176.113.69.6                             |
 | fi-hel     | Helsinki             | Finland         | fi-hel.azirevpn.net       | 7HmWjplnRB+Ho/3xJWHVHACpDx3KjYztpqoOhEpilEo= | 193.138.7.104                            |
 | fr-par     | Paris                | France          | fr-par.azirevpn.net       | s+vJxWBIZqSN6980ha0Nfk2EoMJa2j3FQ1NrSQERlE8= | 91.240.64.44                             |
